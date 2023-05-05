@@ -26,7 +26,8 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.4",
     "tailwindcss": "^1.9.2",
-    "yup": "^0.29.3"
+    "yup": "^0.29.3",
+    "openssl": "^1.1.1g"
   },
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
