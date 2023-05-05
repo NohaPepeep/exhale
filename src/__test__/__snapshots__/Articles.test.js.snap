@@ -1,0 +1,787 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className=" bg-background-primary"
+>
+  <div
+    className="Header flex-grow  w-full h-64 top-0 py-64 bg-background-pinck"
+  >
+    <svg
+      className="absolute buttom-0 h-64 w-full "
+      preserveAspectRatio="none"
+      viewBox="0 0 100 100"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <polygon
+        fill="white"
+        points="0,100 100,0 100,100"
+      />
+    </svg>
+  </div>
+  <div
+    className="pt-56 pb-12 text-center absolute top-0 right-0 left-0"
+  >
+    <h1
+      className="text-4xl font-semibold text-blue-700"
+    >
+      Mental Health Articles & Advices
+    </h1>
+    <div
+      className="box-content flex justify-center mt-4 mb-8 text-lg leading-relaxed text-gray-600"
+    >
+      <p
+        className="w-2/4 "
+      >
+        Articles paragraph
+      </p>
+    </div>
+    <div
+      className="box-content flex justify-center m-5"
+    >
+      <div
+        className="box-content flex justify-center w-4/5 md:w-3/5 bg-white rounded-full"
+      >
+        <input
+          className="w-full px-3 py-1 text-base leading-8 text-gray-700 transition-colors duration-200 ease-in-out bg-gray-100 border border-gray-300 rounded outline-none focus:border-indigo-500"
+          name="search"
+          onChange={[Function]}
+          placeholder="Search"
+          type="text"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex flex-col  px-2 md:px-12 lg:px-32 justify-center  w-full "
+  >
+    <div
+      className="flex-grow mt-64 md:mt-20 w-full wx-auto justify-center"
+    >
+      <section
+        className="blog "
+      >
+        <div
+          className="container px-5 py-12 mx-auto"
+        >
+          <div
+            className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+          >
+            <div
+              className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+            >
+              <div
+                className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                style={
+                  Object {
+                    "backgroundImage": "url(https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2020/motherhood-blog.jpg",
+                  }
+                }
+              />
+              <div
+                className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+              >
+                <div
+                  className="inline-flex header-content"
+                >
+                  <div
+                    className="flex-1 text-sm text-gray-400 category-title"
+                  >
+                    March 12th, 2019
+                  </div>
+                </div>
+                <div
+                  className="text-lg title-post"
+                >
+                  <h2
+                    className="text-textColor-primary "
+                  >
+                    The Harsh Light of Motherhood
+                  </h2>
+                </div>
+                <div
+                  className="text-textColor-secondary text-justify summary-post text-sm "
+                >
+                  <p>
+                    otherhood, at its core, can be simply terrifying and exhausting. This is especially true for those 
+                  </p>
+                  <button
+                    className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                    type="button"
+                  >
+                    <li
+                      className="list-none"
+                    >
+                      <a
+                        href="//1"
+                        onClick={[Function]}
+                      >
+                        Read More
+                      </a>
+                    </li>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div
+      className="flex w-full justify-center "
+    />
+    <div
+      className="flex flex-wrap mt-10 -mb-4"
+    >
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2020/motherhood-blog.jpg",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      The Harsh Light of Motherhood
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      otherhood, at its core, can be simply terrifying and exhausting. This is especially true for those 
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//1"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2020/finding-a-partner-blog.jpg",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      Finding a Partner Who Accepts My Mental Illness
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                       can’t change who I am or the challenges I’ve had to face. What I can do is choose who and what to 
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//2"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2020/bipolar-blog.jpg",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      What People Get Wrong About Bipolar Disorder
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      ipolar disorder is a complicated mental illness. It has a variety of layers and symptoms, which can
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//3"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2020/support-not-guild-blog.jpg",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      When Someone is Suicidal, Choose Support — Not Guilt
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      hen Someone is Suicidal, Choose Support — Not Guilt
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//4"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.healthyplace.com/sites/default/files/styles/blog_listing/public/2020-11/Does%20Victim%20Mentality%20Play%20a%20Role%20in%20Depression.jpg?itok=gBu3jcna",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      Does Victim Mentality Play a Role in Depression?
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      irst off, I want to clarify that depression and victim mentality are not the same. The former is a 
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//5"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nexusfamilyhealing.org/sites/default/files/styles/banner_medium/public/image-uploads/SadAdult.jpg?itok=4KYEsUSJ",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      I'm Always Upset and Not Sure What To Do
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                       feel upset all of time. It has been like this for several years. Nothing seems to go right, and&nb
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//6"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.healthyplace.com/sites/default/files/styles/blog_listing/public/2020-10/pursuit%20of%20success.jpg?itok=t8ppsuEM",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      When the Pressure to Succeed Damages Your Mental Health
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      obody is immune to the pressure to succeed. Whether it comes from family, teachers, bosses, or ours
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//7"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nexusfamilyhealing.org/sites/default/files/styles/banner_medium/public/image-uploads/friendshipsonline.jpg?itok=jj1ustT3",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      From Patient to Survivor
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      y journey started during Game 2 of the 2013 World Series; starting pitcher was John Lackey for the 
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//8"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div
+        className="min-w-0 lg:w-1/3 md:w-1/2"
+      >
+        <section
+          className="blog "
+        >
+          <div
+            className="container px-5 py-12 mx-auto"
+          >
+            <div
+              className="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4"
+            >
+              <div
+                className="flex flex-col items-center justify-center p-5 mx-auto mb-6 md:mb-0"
+              >
+                <div
+                  className="w-full h-56 bg-gray-300 bg-center bg-cover shadow-md "
+                  style={
+                    Object {
+                      "backgroundImage": "url(https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2020/sadness-blog.jpg",
+                    }
+                  }
+                />
+                <div
+                  className="p-5 -mt-10 overflow-hidden bg-background-primary rounded-lg shadow-sm "
+                >
+                  <div
+                    className="inline-flex header-content"
+                  >
+                    <div
+                      className="flex-1 text-sm text-gray-400 category-title"
+                    >
+                      March 12th, 2019
+                    </div>
+                  </div>
+                  <div
+                    className="text-lg title-post"
+                  >
+                    <h2
+                      className="text-textColor-primary "
+                    >
+                      How to Be with Sadness
+                    </h2>
+                  </div>
+                  <div
+                    className="text-textColor-secondary text-justify summary-post text-sm "
+                  >
+                    <p>
+                      he thought of going to a funeral used to terrify me. Walking into a room filled with sadness and gr
+                    </p>
+                    <button
+                      className="block p-2 px-2 mt-4 text-sm text-white bg-green-400 rounded hover:bg-green-300"
+                      type="button"
+                    >
+                      <li
+                        className="list-none"
+                      >
+                        <a
+                          href="//9"
+                          onClick={[Function]}
+                        >
+                          Read More
+                        </a>
+                      </li>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>
+`;

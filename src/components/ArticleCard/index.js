@@ -1,0 +1,1 @@
+export {default , HorizontalArticleCard} from './ArticleCard'

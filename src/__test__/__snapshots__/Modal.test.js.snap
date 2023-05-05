@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal test Modal Body  1`] = `
+<div
+  className="relative flex-auto p-6"
+>
+  <div />
+</div>
+`;
+
+exports[`Modal test Modal Footer  1`] = `
+<div
+  className="flex items-center justify-end p-6 border-t border-gray-300 border-solid rounded-b"
+>
+  <button
+    className="px-6 py-2 mb-1 mr-1 text-sm font-bold text-red-500 uppercase outline-none background-transparent focus:outline-none"
+    onClick={[Function]}
+    style={
+      Object {
+        "transition": "all .15s ease",
+      }
+    }
+    type="button"
+  >
+    Close
+  </button>
+  <button
+    className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase bg-green-500 rounded shadow outline-none active:bg-green-600 hover:shadow-lg focus:outline-none"
+    onClick={[Function]}
+    style={
+      Object {
+        "transition": "all .15s ease",
+      }
+    }
+    type="button"
+  >
+     
+  </button>
+</div>
+`;
+
+exports[`Modal test Modal Header  1`] = `
+<div
+  className="flex items-start justify-between p-5 border-b border-gray-300 border-solid rounded-t"
+>
+  <h3
+    className="text-3xl font-semibold"
+  >
+     
+  </h3>
+  <button
+    className="float-right p-1 ml-auto text-3xl font-semibold leading-none text-black bg-transparent border-0 outline-none opacity-5 focus:outline-none"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="block w-6 h-6 text-2xl text-black bg-transparent outline-none opacity-5 focus:outline-none"
+    >
+      ×
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Modal test Modal component 1`] = `null`;
