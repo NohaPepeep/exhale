@@ -27,7 +27,7 @@
     "react-scripts": "^3.4.4",
     "tailwindcss": "^1.9.2",
     "yup": "^0.29.3",
-    "openssl": "^1.1.1g"
+    "openssl": "^2.0.0"
   },
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
