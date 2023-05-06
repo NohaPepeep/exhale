@@ -1,3 +1,4 @@
+
 {
   "name": "react-lap",
   "version": "0.1.0",
@@ -18,15 +19,17 @@
     "i18next-browser-languagedetector": "^6.0.1",
     "i18next-http-backend": "^1.0.21",
     "prop-types": "^15.7.2",
-    "react": "^18.2.0",
+    "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-firebaseui": "^4.1.0",
     "react-i18next": "^11.7.3",
+    "react-lottie": "^1.2.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.4",
     "tailwindcss": "^1.9.2",
     "yup": "^0.29.3",
     "openssl": "^2.0.0"
+
   },
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
